@@ -16,16 +16,6 @@ FlameProxy currently supports the following websites and services:
 - Pinterest: Discover and save Pins on Pinterest without leaving a trace.
 - TikTok: Watch TikTok videos while keeping your identity hidden.
 
-## Getting Started
-
-To get started with FlameProxy, follow these steps:
-
-1. Clone the FlameProxy repository to your local machine.
-2. Install the necessary dependencies by running `npm install`.
-3. Configure your proxy settings in the `config.js` file.
-4. Launch FlameProxy by running `npm start`.
-
-For detailed instructions and usage examples, please refer to the [FlameProxy Documentation](link-to-documentation).
 
 ## Contributers
 
@@ -33,6 +23,6 @@ We appreciate and welcome contributions from the open source community.
 
 ## Support
 
-If you have any questions or need any assistance, feel free to join our [FlameProxy Community Discord Server](discord.gg/flameworks). Our friendly community members will be happy to help you.
+If you have any questions or need any assistance, feel free to join our [FlameProxy Discord Server](https://discord.gg/flameworks). Our friendly community members will be happy to help you.
 
 Happy proxying!
