@@ -9,6 +9,12 @@ FlameProxy currently supports the following websites and services:
 - Spotify: Access Spotify's music streaming platform anonymously and securely.
 - GeForce Now: Enjoy gaming on GeForce Now cloud gaming service with enhanced privacy.
 - now.gg: Access and play your favorite games on now.gg game streaming platform while maintaining your anonymity.
+- Facebook: Browse Facebook anonymously and privately.
+- Twitter: Tweet and follow others on Twitter without exposing your real identity.
+- Instagram: Explore Instagram posts and stories incognito.
+- LinkedIn: Maintain your privacy while networking on LinkedIn.
+- Pinterest: Discover and save Pins on Pinterest without leaving a trace.
+- TikTok: Watch TikTok videos while keeping your identity hidden.
 
 ## Getting Started
 
@@ -21,17 +27,12 @@ To get started with FlameProxy, follow these steps:
 
 For detailed instructions and usage examples, please refer to the [FlameProxy Documentation](link-to-documentation).
 
-## Contribution
+## Contributers
 
-We welcome contributions from the open source community to enhance FlameProxy's features and functionality. If you would like to contribute, please follow the [contribution guidelines](link-to-contribution-guidelines).
+We appreciate and welcome contributions from the open source community.
 
-## License
+## Support
 
-FlameProxy is released under the [MIT License](link-to-license-file). Please review the license file for more information.
-
-## Contact
-
-If you have any questions, suggestions, or need any assistance, please feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+If you have any questions or need any assistance, feel free to join our [FlameProxy Community Discord Server](discord.gg/flameworks). Our friendly community members will be happy to help you.
 
 Happy proxying!
-
