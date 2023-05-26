@@ -1,0 +1,149 @@
+/* Body and general layout */
+body {
+    background-color: #282c34;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+  }
+  
+  /* Header and logo */
+  .logo-wrapper {
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .logo {
+    height: 50px;
+    margin-right: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+    color: red;
+  }
+  
+  /* Description */
+  .desc {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .left-margin {
+    margin-left: 20px;
+  }
+  
+  /* Form */
+  #access-form {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  #uv-address {
+    background-color: #1f2227;
+    border: none;
+    border-radius: 30px;
+    color: #e60c0c;
+    font-size: 18px;
+    padding: 15px 30px;
+    width: 500px;
+    transition: width 0.3s ease-in-out;
+  }
+  
+  #uv-address:hover {
+    color: red;
+  }
+  
+  a {
+    color: red;
+  }
+  
+  p {
+    color: red;
+  }
+  
+  #uv-address:focus {
+    width: 700px;
+    outline-color: red;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #1f2227;
+    color: #eb0909;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5em;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #ff5c33;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #1f2227;
+  }
+  
+  nav {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+  .game-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .game-item {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  #game {
+    text-decoration: none;
+  }
+  
+  .game-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .game-title {
+    margin-top: 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
