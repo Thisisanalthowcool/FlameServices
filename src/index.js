@@ -18,7 +18,7 @@ console.log("Incognito\nThis program comes with ABSOLUTELY NO WARRANTY.\nThis is
 const app = connect();
 const bare = createBareServer("/bare/");
 const ssl = existsSync("../ssl/key.pem") && existsSync("../ssl/cert.pem");
-const PORT = process.env.PORT || ssl ? 443 : 8080;
+const PORT = process.env.PORT || ssl ? 443 : 80;
 const server = ssl ? createHttpsServer({
   key: readFileSync("../ssl/key.pem"),
   cert: readFileSync("../ssl/cert.pem")
