@@ -1,16 +1,6 @@
-FROM node:18-alpine
-ENV NODE_ENV=production
-
-WORKDIR /app
-
-COPY package*.json .
-
+FROM node:alpine
+WORKDIR /usr/src/app
+COPY . .
 RUN npm install
-
-COPY static static/
-COPY gsource gsource/
-COPY src/*.js src/
-
-EXPOSE 8080
-
+EXPOSE 10000
 CMD ["npm", "start"]
